@@ -1,0 +1,7 @@
+mon fichier b
+ba - devel b
+bb
+bc
+bd
+be
+bf
